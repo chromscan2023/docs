@@ -42,6 +42,7 @@ We officially support macOS and Linux only in the following architectures:
 * `darwin/x86_64`
 * `linux/arm64`
 * `linux/amd64`
+* `windows/x86_64`
 
 ### Minimum Requirements
 
